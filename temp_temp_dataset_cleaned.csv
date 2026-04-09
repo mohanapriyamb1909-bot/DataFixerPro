@@ -1,0 +1,12 @@
+ID,Name,Age,Salary,Join_Date,Department
+1,John Doe,28.0,60000,15-01-2021,IT
+2,Jane Smith,34.0,75000,22-03-2020,HR
+3,Bob Johnson,,55000,05-11-2022,Sales
+4,Alice Brown,29.0,1200000,10-08-2019,IT
+5,Charlie Davis,41.0,80000,19-05-2018,IT
+6,Eva Green,24.0,45000,,Marketing
+7,Frank White,38.0,95000,01-12-2016,Sales
+9,Grace Hall,52.0,-5000,14-09-2015,HR
+10,Henry Ford,,62000,11-01-2023,IT
+11,Ivy Lee,27.0,58000,23-07-2022,Marketing
+12,Jack Ryan,85.0,90000,31-10-2017,Sales
